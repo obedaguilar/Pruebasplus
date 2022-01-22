@@ -1,0 +1,15 @@
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\bin\Debug\net6.0\Pruebas4Arrays.exe
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\bin\Debug\net6.0\Pruebas4Arrays.deps.json
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\bin\Debug\net6.0\Pruebas4Arrays.runtimeconfig.json
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\bin\Debug\net6.0\Pruebas4Arrays.dll
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\bin\Debug\net6.0\ref\Pruebas4Arrays.dll
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\bin\Debug\net6.0\Pruebas4Arrays.pdb
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\obj\Debug\net6.0\Pruebas4Arrays.csproj.AssemblyReference.cache
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\obj\Debug\net6.0\Pruebas4Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\obj\Debug\net6.0\Pruebas4Arrays.AssemblyInfoInputs.cache
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\obj\Debug\net6.0\Pruebas4Arrays.AssemblyInfo.cs
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\obj\Debug\net6.0\Pruebas4Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\obj\Debug\net6.0\Pruebas4Arrays.dll
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\obj\Debug\net6.0\ref\Pruebas4Arrays.dll
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\obj\Debug\net6.0\Pruebas4Arrays.pdb
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\Pruebas4Arrays\obj\Debug\net6.0\Pruebas4Arrays.genruntimeconfig.cache
