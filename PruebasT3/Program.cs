@@ -1,7 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
 
-int op = 0;
+
+Console.WriteLine("Inserta los ciclos\n  1.-while\n, 2.-do while\n 3.-For\n ");
+string paraopcion = Console.ReadLine();
+int op = int.Parse(paraopcion);
+
+
 switch (op)
 {
     case 1:
@@ -32,13 +36,19 @@ switch (op)
             num = double.Parse(cadena);
             division = num / 2;
             Console.WriteLine("Aca este numero que es " + division);
+            if (num<0)
+            {
+                Console.WriteLine("Hasta aca termina tu numerito chiquito negativo");
+                break;
+            }
 
-        } while (num >0);
+        } while (num > 0);
         break;
 
 
 
 
     default:
+        Console.WriteLine("No has puesto nada nbro");
         break;
 }
