@@ -1,0 +1,15 @@
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\bin\Debug\net6.0\PruebasT3.exe
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\bin\Debug\net6.0\PruebasT3.deps.json
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\bin\Debug\net6.0\PruebasT3.runtimeconfig.json
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\bin\Debug\net6.0\PruebasT3.dll
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\bin\Debug\net6.0\ref\PruebasT3.dll
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\bin\Debug\net6.0\PruebasT3.pdb
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\obj\Debug\net6.0\PruebasT3.csproj.AssemblyReference.cache
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\obj\Debug\net6.0\PruebasT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\obj\Debug\net6.0\PruebasT3.AssemblyInfoInputs.cache
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\obj\Debug\net6.0\PruebasT3.AssemblyInfo.cs
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\obj\Debug\net6.0\PruebasT3.csproj.CoreCompileInputs.cache
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\obj\Debug\net6.0\PruebasT3.dll
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\obj\Debug\net6.0\ref\PruebasT3.dll
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\obj\Debug\net6.0\PruebasT3.pdb
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\PruebasT3\obj\Debug\net6.0\PruebasT3.genruntimeconfig.cache
