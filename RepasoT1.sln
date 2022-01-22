@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepasoT1", "RepasoT1\RepasoT1.csproj", "{941BEC44-FE37-4C0C-9CD4-7A00DEE72BA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repaso2", "Repaso2\Repaso2.csproj", "{7689221A-AFC2-4C2F-A0A1-35C861937B48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repaso2", "Repaso2\Repaso2.csproj", "{7689221A-AFC2-4C2F-A0A1-35C861937B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasT3", "PruebasT3\PruebasT3.csproj", "{A495A446-CCB7-44F7-B0DF-E8E437ABF992}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7689221A-AFC2-4C2F-A0A1-35C861937B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7689221A-AFC2-4C2F-A0A1-35C861937B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7689221A-AFC2-4C2F-A0A1-35C861937B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A495A446-CCB7-44F7-B0DF-E8E437ABF992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A495A446-CCB7-44F7-B0DF-E8E437ABF992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A495A446-CCB7-44F7-B0DF-E8E437ABF992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A495A446-CCB7-44F7-B0DF-E8E437ABF992}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
