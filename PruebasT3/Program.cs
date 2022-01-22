@@ -36,13 +36,28 @@ switch (op)
             num = double.Parse(cadena);
             division = num / 2;
             Console.WriteLine("Aca este numero que es " + division);
-            if (num<0)
+            if (num < 0)
             {
                 Console.WriteLine("Hasta aca termina tu numerito chiquito negativo");
                 break;
             }
 
         } while (num > 0);
+        break;
+    case 3:
+        Console.WriteLine("Bienvenido al ciclo for hallaremos la suma de 5 numeros");
+        double total = 0;
+        for (int i = 0; i < 5; i++)
+        {
+            Console.WriteLine("anota el primer numero" + i);
+            
+
+            string cadena = Console.ReadLine();
+            double suma = double.Parse(cadena);
+         
+            total += suma;
+
+        } Console.WriteLine("La suma de todos los numeros son " + total);
         break;
 
 
