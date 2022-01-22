@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "941bec44-fe37-4c0c-9cd4-7a00dee72ba1": {
+      "ProjectGuid": "941bec44-fe37-4c0c-9cd4-7a00dee72ba1",
+      "DisplayName": "RepasoT1",
+      "ColorIndex": 0
+    },
+    "7689221a-afc2-4c2f-a0a1-35c861937b48": {
+      "ProjectGuid": "7689221a-afc2-4c2f-a0a1-35c861937b48",
+      "DisplayName": "Repaso2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

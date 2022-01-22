@@ -1,0 +1,15 @@
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\bin\Debug\net6.0\RepasoT1.exe
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\bin\Debug\net6.0\RepasoT1.deps.json
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\bin\Debug\net6.0\RepasoT1.runtimeconfig.json
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\bin\Debug\net6.0\RepasoT1.dll
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\bin\Debug\net6.0\ref\RepasoT1.dll
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\bin\Debug\net6.0\RepasoT1.pdb
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\obj\Debug\net6.0\RepasoT1.csproj.AssemblyReference.cache
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\obj\Debug\net6.0\RepasoT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\obj\Debug\net6.0\RepasoT1.AssemblyInfoInputs.cache
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\obj\Debug\net6.0\RepasoT1.AssemblyInfo.cs
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\obj\Debug\net6.0\RepasoT1.csproj.CoreCompileInputs.cache
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\obj\Debug\net6.0\RepasoT1.dll
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\obj\Debug\net6.0\ref\RepasoT1.dll
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\obj\Debug\net6.0\RepasoT1.pdb
+C:\Users\ObedA\Desktop\Master\Proyectoscsharp\RepasoT1\RepasoT1\obj\Debug\net6.0\RepasoT1.genruntimeconfig.cache
