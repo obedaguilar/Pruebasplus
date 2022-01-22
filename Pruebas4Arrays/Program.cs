@@ -17,9 +17,30 @@ int[] valores = { 7, 9, 23, 56, 23, 34, 66, 78, 79, 34, 12, 16, 15 };
 foreach (int val in valores) { 
     Console.WriteLine(val);
 }
-    
+
 
 //Console.WriteLine("valores" + valores.Length);
 //Console.WriteLine("valores" + valores[0]);
 //Console.WriteLine("el ultimo elemento" + valores[valores.Length -1]);
+
+//int[] notas = new int[4]; //otra forma de definir los arrays
+
+//notas[0] = 1;
+//notas[1] = 2;
+//notas[2] = 3;
+//notas[3] = 4;
+
+//para poners un array de array
+
+string[,] nombrescompletos = {
+
+{"Julio", "Nieves", "Sandoval" },
+{"Norberto","Pedraza","Murayari" },
+{"Pablo", "Picaso", "Pedraza" }
+
+};
+
+Console.WriteLine(nombrescompletos[1, 1]);
+
+
 
